@@ -74,6 +74,14 @@
   </a>
 </p>
 
+<h5>⚡ Database</h5>
+<p>
+  <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    
 <h5>🖍 Design</h5>
 <p>
   <a href="https://adobe.com/xd" target="_blank" rel="noreferrer">
