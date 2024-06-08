@@ -4,7 +4,7 @@
 <p align="center"> databases like MongoDB,I'm also learning other languages and technologies.</p>
 <br>
 <h5>Work</h5>
-<p>I am  I use Angular.</p>
+<p>I am  .</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inbliz&label=Profile%20views&color=1a86bc&style=flat" alt="inbliz" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 Some of my projects are previewable at [inbliz.github.io](inbliz.github.io)
 
-- 💬 Ask me about **Angular, JS, Game engines, or life in general**
+- 💬 Ask me about **Angular**
 
 - 📫 How to reach me **[muzxfir@gmail.com](mailto:muzxfir@gmail.com)**
 
