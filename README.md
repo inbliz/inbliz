@@ -205,7 +205,7 @@ broadcast - to broadcast a message to all My Bot users
 
 ## TELAGRAM SUPPORT 
 
-* [![INBLIZ BOTZ](https://img.shields.io/static/v1?label=MKN&message=BOTZ&color=critical)](https://t.me/inbliz)
+* [![INBLIZ BOTZ](https://img.shields.io/static/v1?label=INBLIZ&message=BOTZ&color=critical)](https://t.me/inbliz)
 
 ## Credit 💞
 
