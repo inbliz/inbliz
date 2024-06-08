@@ -94,13 +94,13 @@
   <b> 𝐈𝐍𝐁𝐋𝐈𝐙 𝐁𝐎𝐓</b>
 </h1>
 
-[![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrMKN/PROFESSOR-BOT?style=flat-square&color=orange)](https://github.com/MrMKN/PROFESSOR-BOT/fork)
-[![Size](https://img.shields.io/github/repo-size/MrMKN/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/MrMKN/PROFESSOR-BOT)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MrMKN/PROFESSOR-BOT)   
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/inbliz?style=flat-square&color=yellow)](https://github.com/inbliz/stargazers)
+[![Forks](https://img.shields.io/github/forks/inbliz/?style=flat-square&color=orange)](https://github.com/inbliz)
+[![Size](https://img.shields.io/github/repo-size/inbliz?style=flat-square&color=green)](https://github.com/inbliz)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/inbliz)   
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/inbliz/blob/main/LICENSE)
 
-[![Sparkline](https://stars.medv.io/MrMKN/PROFESSOR-BOT.svg)](https://stars.medv.io/MrMKN/PROFESSOR-BOT)
+[![Sparkline](https://stars.medv.io/inbliz.svg)](https://stars.medv.io/inbliz)
 
 <details>
 <summary><b>Features</b></summary>
