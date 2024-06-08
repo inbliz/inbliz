@@ -209,7 +209,7 @@ broadcast - to broadcast a message to all My Bot users
 
 ## Credit 💞
 
-* [![TEAM INBLIZ](https://img.shields.io/static/v1?label=TEAM&message=EVA-MARIA&color=yellow)](https://t.me/inbliz)
+* [![TEAM INBLIZ](https://img.shields.io/static/v1?label=IAM&message=INBLIZ&color=yellow)](https://t.me/inbliz)
 
 * [![BASE REPO](https://img.shields.io/static/v1?label=BASE&message=REPO&color=green)](https://t.me/inbliz)
 
