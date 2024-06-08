@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://instagram.com/_anand_antony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inbliz_" height="30" width="40" /></a>
+<a href="https://instagram.com/inbliz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inbliz_" height="30" width="40" /></a>
 
 </p>
 
