@@ -85,3 +85,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=inbliz&theme=tokyonight)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inbliz&show_icons=true&theme=tokyonight&locale=en" alt="inbliz " /></p>
+
+</a>
+https://github.com/ryo-ma/github-profile-trophy/blob/master/README.md#license />
