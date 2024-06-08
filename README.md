@@ -4,7 +4,7 @@
 <p align="center"> databases like MongoDB,I'm also learning other languages and technologies.</p>
 <br>
 <h5>Work</h5>
-<p>I am  .</p>
+<p>I am .</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inbliz&label=Profile%20views&color=1a86bc&style=flat" alt="inbliz" /> </p>
 
