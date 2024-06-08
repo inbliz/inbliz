@@ -10,8 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandantony&theme=dracula&margin-w=15&margin-h=15" alt="anandantony" /></a> </p>
 
-<p align="left"> <a href="https://www.instagram.com/inbliz_?igsh=MWkybTA4Y2hpNmpzcA==" target="blank"><img src="https://img.shields.io/instagram.com/follow/inbliz_?logo=twitter&style=for-the-badge" alt="inbliz" /></a> </p>
-
 - 🌱 I’m currently learning **SvelteKit, Telegram Bots, Bevy**
 
 - 👨‍💻 Some of my projects are previewable at [inbliz.github.io](inbliz.github.io)
