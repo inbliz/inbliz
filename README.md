@@ -21,11 +21,9 @@
 - 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/e/2PACX-1vTNkMWAE00oZD6QDNlnYKcM58sMAMacNHDME6Ozc6lL1BmaPf2xcLmaKRd_M5w4VDajou-hyXWd5kEb/pub)**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anandantony7599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandantony7599" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anandantony99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anandantony99" height="30" width="40" /></a>
-<a href="https://instagram.com/_anand_antony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anand_antony_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anandantony_7599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anandantony_7599" height="30" width="40" /></a>
+
+<a href="https://instagram.com/_anand_antony_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inbliz_" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Skills:</h3>
