@@ -97,8 +97,8 @@
   
 <h3>Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandantony&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="anandantony" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inbliz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="inbliz" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anandantony&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=inbliz&theme=tokyonight)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandantony&show_icons=true&theme=tokyonight&locale=en" alt="anandantony" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inbliz&show_icons=true&theme=tokyonight&locale=en" alt="inbliz" /></p>
