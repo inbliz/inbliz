@@ -96,7 +96,7 @@
 
 [![Stars](https://img.shields.io/github/stars/inbliz?style=flat-square&color=yellow)](https://github.com/inbliz/stargazers)
 [![Forks](https://img.shields.io/github/forks/inbliz/inbliz?style=flat-square&color=orange)](https://github.com/inbliz/inbliz)
-[![Size](https://img.shields.io/github/repo-size/inbliz?style=flat-square&color=green)](https://github.com/inbliz/inbliz)   
+[![Size](https://img.shields.io/github/repo-size/inbliz/inbliz?style=flat-square&color=green)](https://github.com/inbliz/inbliz)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/inbliz/inbliz)   
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/inbliz/blob/main/LICENSE)
 
