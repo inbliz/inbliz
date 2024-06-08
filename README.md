@@ -6,9 +6,9 @@
 <h5>Work</h5>
 <p>I am  I use Angular.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandantony&label=Profile%20views&color=1a86bc&style=flat" alt="anandantony" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inbliz&label=Profile%20views&color=1a86bc&style=flat" alt="inbliz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandantony&theme=dracula&margin-w=15&margin-h=15" alt="anandantony" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandantony&theme=dracula&margin-w=15&margin-h=15" alt="inbliz" /></a> </p>
 
 - 🌱 I’m currently learning **SvelteKit, Telegram Bots, Bevy**
 
