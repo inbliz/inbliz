@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Anand</h1>
+<h1 align="center">Hello there 👋, I'm inbliz</h1>
 <h3 align="center">A passionate frontend & game developer from India</h3>
 
 <p align="center">I am a software engineer eager about developing full-stack web applications and games. I'm familiar with languages like C#, JS, PHP, etc, RDBMSs like MySQL, NoSQL databases like MongoDB, frameworks like Angular, SvelteKit and Laravel, and game engines like Unity, Godot and Unreal. I'm also learning other languages and technologies like Rust (Bevy engine), Spring Boot (and other Java frameworks), React (Next.js), and other frameworks along with containerizing applications.</p>
