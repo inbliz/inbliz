@@ -1,10 +1,10 @@
 <h1 align="center">Hello there 👋, I'm inbliz</h1>
-<h3 align="center">A passionate frontend & game developer from India</h3>
+<h3 align="center"></h3>
 
-<p align="center">I am a software engineer eager about developing full-stack web applications and games. I'm familiar with languages like C#, JS, PHP, etc, RDBMSs like MySQL, NoSQL databases like MongoDB, frameworks like Angular, SvelteKit and Laravel, and game engines like Unity, Godot and Unreal. I'm also learning other languages and technologies like Rust (Bevy engine), Spring Boot (and other Java frameworks), React (Next.js), and other frameworks along with containerizing applications.</p>
+<p align="center"> databases like MongoDB,I'm also learning other languages and technologies.</p>
 <br>
 <h5>Work</h5>
-<p>I am responsible for developing and maintaining full-stack web applications. I use Angular and SvelteKit to build frontend applications and Laravel, Spring Boot and Express.js to build the backend micro-services and monoliths.</p>
+<p>I am  I use Angular.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandantony&label=Profile%20views&color=1a86bc&style=flat" alt="anandantony" /> </p>
 
@@ -12,13 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/anandantony7599" target="blank"><img src="https://img.shields.io/twitter/follow/anandantony7599?logo=twitter&style=for-the-badge" alt="anandantony7599" /></a> </p>
 
-- 🌱 I’m currently learning **SvelteKit, Spring Boot, Bevy**
+- 🌱 I’m currently learning **SvelteKit, Telegram Bots, Bevy**
 
-- 👨‍💻 Some of my projects are previewable at [anandantony.github.io](anandantony.github.io)
+- 👨‍💻 Some of my projects are previewable at [inbliz.github.io](inbliz.github.io)
 
 - 💬 Ask me about **Angular, JS, Game engines, or life in general**
 
-- 📫 How to reach me **[anandantony.7599@gmail.com](mailto:anandantony.7599@gmail.com)**
+- 📫 How to reach me **[muzxfir@gmail.com](mailto:muzxfir@gmail.com)**
 
 - 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/e/2PACX-1vTNkMWAE00oZD6QDNlnYKcM58sMAMacNHDME6Ozc6lL1BmaPf2xcLmaKRd_M5w4VDajou-hyXWd5kEb/pub)**
 
