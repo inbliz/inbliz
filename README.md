@@ -75,23 +75,6 @@
   </a
   <a href="https://www.mongodb.com/nk" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    
-<h5>🖍 Design</h5>
-<p>
-  <a href="https://adobe.com/xd" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />    
-  </a>
-  <a href="https://www.gimp.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
-  </a>
-  <a href="https://inkscape.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
   </a>
 </p>
   
