@@ -1,8 +1,4 @@
-<h1 align="center">Hello there 👋, I'm inbliz</h1>
-<h3 align="center"></h3>
 
-<p align="center"> databases like MongoDB,I'm also learning other languages and technologies.</p>
-<br>
 <h5>Work</h5>
 <p>I am .</p>
 
