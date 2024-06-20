@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Skills:</h3>
-<h5>👩‍💻 Languages</h5>
+<h5>👩‍💻𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</h5>
 <p>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -31,20 +31,8 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   </a>
-  <a href="https://cplusplus.com/doc/tutorial/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  </a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
