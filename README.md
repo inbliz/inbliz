@@ -10,3 +10,7 @@
 inbliz/inbliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="center"><a href="https://t.me/inbliz"><img src="https://img.shields.io/badge/𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+
+
+<p align="center"><a href="https://t.me/mnzks"><img src="https://img.shields.io/badge/𝙏𝙀𝙇𝙀𝙂𝙍𝘼𝙈-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
