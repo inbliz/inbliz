@@ -29,7 +29,6 @@ You can click the Preview link to take a look at your changes.
            
         </p>
 </details>
-<!SPOTIFY / WEBSITE
-https://github.com/kittinan/spotify-github-profile -->
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
-<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
+<img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
