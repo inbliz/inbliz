@@ -28,3 +28,6 @@ You can click the Preview link to take a look at your changes.
         3. EBOTZ TG <br><br>
 </p>
 </details>
+https://github.com/kittinan/spotify-github-profile -->
+<p align="center">
+<a href="https://www.youtube.com/watch?v=vdB-8eLEW8g"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300"></a>
