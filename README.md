@@ -24,11 +24,10 @@ You can click the Preview link to take a look at your changes.
     <p align="left">
         <br><b><u>
         1. 404 COD<br>
-        2. INBLIZ <br>
            
 
       
 </details>
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=trinib&color=07E9C4&style=for-the-badge">
